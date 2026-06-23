@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329824930692",
+    "project_id": "tracker-expense-bf685",
+    "storage_bucket": "tracker-expense-bf685.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329824930692:android:fc839103ccfa4cf73aabd1",
+        "android_client_info": {
+          "package_name": "com.androidstudio.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAloplJ0If0mS3boSgeRszKuRrM8CeUUHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
